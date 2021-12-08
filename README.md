@@ -17,6 +17,6 @@ For more information about the rules of Baba is you,refer to this brief online t
 https://www.appunwrapper.com/2019/03/24/baba-is-you-words-and-rules-walkthrough-guide/
 
 Future extensions of this program may include:
- 1. Enabling the creation of new levels
- 2. Permitting the addition of new types of rules
+ 1. Enabling the creation of new user defined levels
+ 2. Permitting the addition of new user defined properties
  3. Enabling multiplayer capabilities
