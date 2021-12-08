@@ -13,7 +13,7 @@ In order to play the game, please take the following steps:
 5. Enjoy!
 
 
-For more information about the rules of Baba is you,refer to this brief online tutorial: 
+For more information about the rules of Baba is you, refer to this brief online tutorial: 
 https://www.appunwrapper.com/2019/03/24/baba-is-you-words-and-rules-walkthrough-guide/
 
 Future extensions of this program may include:
